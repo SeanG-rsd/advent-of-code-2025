@@ -2,11 +2,11 @@
 {
     public class Day1
     {
-        public static void Main(string[] args)
-        {
-            int password = DialLock2();
-            Console.WriteLine(password);
-        }
+        // public static void Main(string[] args)
+        // {
+        //     int password = DialLock2();
+        //     Console.WriteLine(password);
+        // }
 
         public static int DialLock()
         {

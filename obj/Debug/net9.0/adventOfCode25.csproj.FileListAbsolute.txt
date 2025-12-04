@@ -12,3 +12,4 @@ C:\Users\sean\Documents\Projects\Events\adventOfCode25\obj\Debug\net9.0\refint\a
 C:\Users\sean\Documents\Projects\Events\adventOfCode25\obj\Debug\net9.0\adventOfCode25.pdb
 C:\Users\sean\Documents\Projects\Events\adventOfCode25\obj\Debug\net9.0\adventOfCode25.genruntimeconfig.cache
 C:\Users\sean\Documents\Projects\Events\adventOfCode25\obj\Debug\net9.0\ref\adventOfCode25.dll
+C:\Users\sean\Documents\Projects\Events\adventOfCode25\obj\Debug\net9.0\adventOfCode25.sourcelink.json
