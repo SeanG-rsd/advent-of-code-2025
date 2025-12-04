@@ -4,11 +4,11 @@ namespace AdventOfCode
 {
     public class Day03
     {
-        public static void Main(string[] args)
-        {
-            var answer = Lobby();
-            Console.WriteLine(answer);
-        }
+        // public static void Main(string[] args)
+        // {
+        //     var answer = Lobby();
+        //     Console.WriteLine(answer);
+        // }
 
         public static int GetHighestForBattery(string b)
         {
