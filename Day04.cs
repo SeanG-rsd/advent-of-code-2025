@@ -2,11 +2,11 @@ namespace AdventOfCode
 {
     public class Day04
     {
-        public static void Main(string[] args)
-        {
-            var answer = PrintingDepartment();
-            Console.WriteLine(answer);
-        }
+        // public static void Main(string[] args)
+        // {
+        //     var answer = PrintingDepartment();
+        //     Console.WriteLine(answer);
+        // }
 
         public static int RemoveRolls(List<char[]> lines)
         {
