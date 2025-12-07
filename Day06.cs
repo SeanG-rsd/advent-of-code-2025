@@ -4,11 +4,11 @@ namespace AdventOfCode
 {
     public class Day06
     {
-        public static void Main(string[] args)
-        {
-            var answer = TrashCompactor2();
-            Console.WriteLine(answer);
-        }
+        // public static void Main(string[] args)
+        // {
+        //     var answer = TrashCompactor2();
+        //     Console.WriteLine(answer);
+        // }
 
         public static long TrashCompactor()
         {
