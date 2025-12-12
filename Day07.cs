@@ -4,11 +4,11 @@ namespace AdventOfCode
     {
         static HashSet<(int line, int x)> splits = new();
         static Dictionary<(int line, int x), long> cache = new();
-        public static void Main(string[] args)
-        {
-            var answer = Laboratories();
-            Console.WriteLine(answer);
-        }
+        // public static void Main(string[] args)
+        // {
+        //     var answer = Laboratories();
+        //     Console.WriteLine(answer);
+        // }
 
         public static long Laboratories()
         {
